@@ -6,7 +6,7 @@ data import of test_data.csv using pandas
 
 import os
 
-import numpy
+    import numpy
 import pandas as pd
 from sklearn import metrics
 from tensorflow.keras.models import Sequential
